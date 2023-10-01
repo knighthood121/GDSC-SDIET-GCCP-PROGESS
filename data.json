@@ -10,7 +10,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Yash Makkar",
@@ -23,7 +23,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Tarvinder Singh",
@@ -36,7 +36,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ayush Kavtiyal",
@@ -49,7 +49,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Lakshay Vashishtha",
@@ -75,7 +75,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Mohini Dua",
@@ -88,7 +88,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Tannu",
@@ -101,7 +101,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Mohit Maurya",
@@ -114,7 +114,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Lawnish kumar",
@@ -127,7 +127,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Chetan Singh",
@@ -140,7 +140,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Jatin Saini",
@@ -153,7 +153,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Rishabh Bilwal",
@@ -166,7 +166,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Krish Varshney",
@@ -176,10 +176,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/57f758ee-2562-407a-aa33-11d478e89fc0",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 3,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Mayank Verma",
@@ -192,7 +192,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Chetan",
@@ -205,7 +205,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Shiva sharma",
@@ -218,7 +218,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Shivam singh",
@@ -227,11 +227,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 20:42:16 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/7efe7d41-0e36-4f25-9629-aaae98de33fb",
-   "# of Courses Completed": 0,
+   "# of Courses Completed": 2,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Om",
@@ -244,7 +244,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ashish singh",
@@ -268,9 +268,9 @@
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ac7cb1e3-465e-4b0e-a6c3-d013fc50dd1e",
    "# of Courses Completed": 4,
    "# of Skill Badges Completed": 4,
-   "# of GenAI Game Completed": 0,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "# of GenAI Game Completed": 1,
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Bhawana Srivastava",
@@ -292,11 +292,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 20:55:40 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/cae9c36b-818f-4c46-ad23-fd325a70ec8f",
-   "# of Courses Completed": 3,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Jatin Singh Rawat",
@@ -305,11 +305,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 20:57:12 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/cbcbeb47-9bf3-461d-a0a5-72907e8c6efe",
-   "# of Courses Completed": 3,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ravi",
@@ -322,7 +322,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Gunika Arora",
@@ -335,7 +335,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Alok Yadav",
@@ -348,7 +348,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Pawan",
@@ -359,9 +359,9 @@
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/727dcfa4-e1be-4798-aa0e-dd4a1e20e668",
    "# of Courses Completed": 0,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Udit Sengar",
@@ -374,7 +374,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Simran yadav",
@@ -383,11 +383,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:06:27 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b5f88e68-ff1e-493c-bd3d-5125fb7836b8",
-   "# of Courses Completed": 1,
+   "# of Courses Completed": 2,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Mayank Pant",
@@ -396,11 +396,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:07:46 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bc19c132-3a13-49a7-824f-b726857c12e4",
-   "# of Courses Completed": 2,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ashish Ranjan Patra",
@@ -413,7 +413,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Alok kumar jha",
@@ -426,7 +426,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "PANKAJ PANWAR",
@@ -439,7 +439,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Prasansha Shukla",
@@ -452,7 +452,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Saurabh Kumar",
@@ -461,11 +461,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:18:22 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a4ac0946-9e24-42cf-a72d-f7d845bbe59c",
-   "# of Courses Completed": 0,
+   "# of Courses Completed": 2,
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Govind kumar",
@@ -491,7 +491,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Amit Tiwari",
@@ -504,7 +504,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Shubham Dutta",
@@ -517,7 +517,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Himanshu Sharma",
@@ -530,7 +530,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Nitish sharma",
@@ -539,11 +539,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:28:04 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a46790f1-d28c-43bc-87e4-a9ce56bc317a",
-   "# of Courses Completed": 0,
-   "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
+   "# of GenAI Game Completed": 1,
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Lija Shyama",
@@ -553,10 +553,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/19cd0ac1-a799-4c4f-9885-5ba04c40798b",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 2,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Mansi",
@@ -569,7 +569,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Nipun Grover",
@@ -578,11 +578,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:30:03 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/9400faf5-640b-4073-a842-60bb104a55e9",
-   "# of Courses Completed": 0,
+   "# of Courses Completed": 3,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Vaidehi Jha",
@@ -592,10 +592,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d4133618-2d9a-49e5-9f2e-495508a03bcf",
    "# of Courses Completed": 0,
-   "# of Skill Badges Completed": 0,
+   "# of Skill Badges Completed": 1,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Yashika puri",
@@ -608,7 +608,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Jaskeerat Singh",
@@ -618,10 +618,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/0aa07c78-502c-4e91-a017-b501bf444279",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 3,
-   "# of GenAI Game Completed": 0,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "# of Skill Badges Completed": 4,
+   "# of GenAI Game Completed": 1,
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Chirag Ji",
@@ -634,7 +634,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Roshan",
@@ -647,7 +647,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Sanchit Shukla",
@@ -660,7 +660,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Himanshu Negi",
@@ -673,7 +673,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Harshit kumar",
@@ -682,11 +682,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:37:06 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b2c95bf1-9ef9-4670-8443-62e3fa5c8e5d",
-   "# of Courses Completed": 0,
+   "# of Courses Completed": 1,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Adarsh chaudhary",
@@ -699,7 +699,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Suraj Sharma",
@@ -709,10 +709,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/0ec882db-d5d5-4190-a1df-de3ad24d9dc7",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 2,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ankit giri",
@@ -721,11 +721,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:39:19 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/4d2c6ab5-0d3a-4325-9979-c060e2e1dd7c",
-   "# of Courses Completed": 0,
+   "# of Courses Completed": 2,
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Himanshu Bhatt",
@@ -738,7 +738,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Khushi",
@@ -751,7 +751,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Priyanshu",
@@ -760,11 +760,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:42:50 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d145a001-3815-40b0-9604-e14aa3b94385",
-   "# of Courses Completed": 1,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Jatin Bhatt",
@@ -777,7 +777,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Chirag Sharma",
@@ -786,11 +786,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:44:09 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3b4a134f-8f71-4b70-a460-fdba719c3576",
-   "# of Courses Completed": 1,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Vishal",
@@ -816,7 +816,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Vipin",
@@ -842,7 +842,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ankit",
@@ -851,11 +851,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:49:15 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e829be47-2f3a-4e3f-ac0e-97a027eda0e9",
-   "# of Courses Completed": 2,
+   "# of Courses Completed": 4,
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Sumit Kumar",
@@ -864,11 +864,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 21:50:01 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d3250571-aa46-45b0-bc69-6fc71e2a058e",
-   "# of Courses Completed": 0,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 1,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Nikhil Sharma",
@@ -881,7 +881,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Nidhi Singh",
@@ -891,10 +891,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d29bde91-2d76-4f29-964e-69a6a7b933eb",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 0,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Kapil arya",
@@ -907,7 +907,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Piyush kumar",
@@ -920,7 +920,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ganika chauhan",
@@ -933,7 +933,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ankush",
@@ -946,7 +946,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Rakesh Kumar",
@@ -959,7 +959,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Himanshu Dixit",
@@ -972,7 +972,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Sudhanshu Chauhan",
@@ -985,7 +985,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Himani Verma",
@@ -995,10 +995,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/86b0f0d2-259e-45f7-9e1f-450117546fd4",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 0,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Abhishek Kumar",
@@ -1020,11 +1020,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:03:38 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c5ab8a3d-d2ee-47be-9179-2d064df62d15",
-   "# of Courses Completed": 3,
-   "# of Skill Badges Completed": 1,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Somay Walecha",
@@ -1035,9 +1035,9 @@
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1dda446d-c91c-4bd0-8e1e-934ffd8b2885",
    "# of Courses Completed": 2,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Sadik Khan",
@@ -1046,11 +1046,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:07:13 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b856968e-8e9d-4db5-842d-d289b83bf9b5",
-   "# of Courses Completed": 0,
+   "# of Courses Completed": 1,
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Robin",
@@ -1063,7 +1063,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Lalitahazra",
@@ -1085,11 +1085,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:10:24 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b95c0bbe-10bd-4d94-841c-2cfbf4690df6",
-   "# of Courses Completed": 0,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Naman",
@@ -1102,7 +1102,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 0,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Karan kanojia",
@@ -1115,7 +1115,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Vicky Kumar",
@@ -1124,11 +1124,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:12:55 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/66ad0a0f-707c-4531-afaf-5912e458fa39",
-   "# of Courses Completed": 1,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 3,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Sakshi",
@@ -1141,7 +1141,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Kuldeep",
@@ -1151,10 +1151,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/df4728f5-5e8a-4753-ba88-576c161efe10",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 1,
-   "# of GenAI Game Completed": 0,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "# of Skill Badges Completed": 4,
+   "# of GenAI Game Completed": 1,
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Shourya Kothari",
@@ -1165,9 +1165,9 @@
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/33972597-1346-411f-906f-c255ea0d6f07",
    "# of Courses Completed": 0,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Khushi yadav",
@@ -1176,11 +1176,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:18:13 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a503fb31-c1b1-4d17-a0cb-314baf30ee3e",
-   "# of Courses Completed": 3,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Suraj Maurya",
@@ -1206,7 +1206,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Saiyam",
@@ -1216,10 +1216,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/87d9bc51-0926-41c5-91bb-1a4f2e05ff34",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 0,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Akansha sachdeva",
@@ -1228,11 +1228,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:23:19 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ed975c6f-d8a2-486d-ab69-f92dec7c33bd",
-   "# of Courses Completed": 2,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Pooja Rawat",
@@ -1241,11 +1241,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:24:02 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c4fec48b-8b7e-440e-8a16-45b93a53ad43",
-   "# of Courses Completed": 0,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Namrata Gulati",
@@ -1258,7 +1258,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Nitish Kumar Kamati",
@@ -1267,11 +1267,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:26:35 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b80ed8e9-a70b-4383-9fcd-461c38df8a69",
-   "# of Courses Completed": 2,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 2,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Dhruv Kumar Sharma",
@@ -1280,11 +1280,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:27:12 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3e437da6-e614-4232-abe9-5b7084cb6ea1",
-   "# of Courses Completed": 1,
+   "# of Courses Completed": 3,
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Neeraj Panchal",
@@ -1297,7 +1297,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Rohini Singh",
@@ -1310,7 +1310,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Karan kumar",
@@ -1319,11 +1319,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:31:00 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ae55c149-b0d1-4ae3-a04e-e57fcdf88f09",
-   "# of Courses Completed": 1,
-   "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 3,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Priya Barnwal",
@@ -1336,7 +1336,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Abhinav Kumar",
@@ -1346,10 +1346,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/54d6ebe6-5e3a-4a14-9a38-72badd2029f8",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 2,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Sumit kasnia",
@@ -1360,9 +1360,9 @@
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b8264679-2ff8-4494-a114-8ddc6ccac4e1",
    "# of Courses Completed": 1,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Abhimanyu yadav",
@@ -1375,7 +1375,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Mohit Yadav",
@@ -1386,9 +1386,9 @@
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1181de43-f1f5-4a16-9649-bf4f8d9eba7c",
    "# of Courses Completed": 1,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Amit Kumar",
@@ -1397,11 +1397,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:36:31 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/01f4620a-7bc2-41be-b416-0d99bdfd7173",
-   "# of Courses Completed": 1,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 3,
+   "# of Skill Badges Completed": 1,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ayush Kumar thakur",
@@ -1410,11 +1410,11 @@
    "Enrolment Date & Time": "Fri Sep 01 2023 22:38:01 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2d839a7c-1970-4ec3-81e4-2ed0db7a34b6",
-   "# of Courses Completed": 2,
+   "# of Courses Completed": 3,
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Satyug Darshan Institute of Engineering and Technology",
@@ -1450,10 +1450,10 @@
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bec1c220-2f44-4109-b8da-9ecd81bca298",
    "# of Courses Completed": 4,
-   "# of Skill Badges Completed": 2,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Mohit mehra",
@@ -1462,11 +1462,11 @@
    "Enrolment Date & Time": "Sun Sep 03 2023 00:05:16 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/11718b1f-4bd3-4fb2-85fb-6f10be2d02b4",
-   "# of Courses Completed": 2,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Aditya",
@@ -1475,11 +1475,11 @@
    "Enrolment Date & Time": "Sun Sep 03 2023 00:07:45 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ee841e4e-5a4f-4d0c-b0c1-02d93e5817e1",
-   "# of Courses Completed": 2,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 2,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Vishal sharma",
@@ -1501,11 +1501,11 @@
    "Enrolment Date & Time": "Sun Sep 03 2023 00:10:11 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a1b5f4f4-760e-4992-96b9-d7e5438efafc",
-   "# of Courses Completed": 2,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Rohit Kumar",
@@ -1518,7 +1518,7 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Saksham Monga",
@@ -1529,9 +1529,9 @@
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f463bfbf-0bd2-4fae-9d05-ea739a981103",
    "# of Courses Completed": 1,
    "# of Skill Badges Completed": 0,
-   "# of GenAI Game Completed": 0,
+   "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Chirag Sharma",
@@ -1544,7 +1544,7 @@
    "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "Yes",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Ravikant",
@@ -1553,11 +1553,11 @@
    "Enrolment Date & Time": "Sun Sep 03 2023 00:19:25 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/aed256ca-86bf-4815-96f3-fab99e123e07",
-   "# of Courses Completed": 1,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Devanshu",
@@ -1566,11 +1566,11 @@
    "Enrolment Date & Time": "Sun Sep 03 2023 00:20:55 GMT+0530 (India Standard Time)",
    "Enrolment Status": "All Good",
    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/9352ae4a-403f-40ec-a766-a4ac88f77e71",
-   "# of Courses Completed": 3,
-   "# of Skill Badges Completed": 0,
+   "# of Courses Completed": 4,
+   "# of Skill Badges Completed": 4,
    "# of GenAI Game Completed": 1,
-   "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Total Completions of both Pathways": "Yes",
+   "Redemption Status": "No"
  },
  {
    "Student Name": "Nikhil",
@@ -1583,6 +1583,6 @@
    "# of Skill Badges Completed": 0,
    "# of GenAI Game Completed": 1,
    "Total Completions of both Pathways": "No",
-   "Redemption Status": "Yes"
+   "Redemption Status": "No"
  }
 ]
